@@ -1,0 +1,8 @@
+.feed{
+    overflow-y: scroll;
+    min-width: fit content;
+}
+.feed-title{
+    padding-left:20px;
+
+}

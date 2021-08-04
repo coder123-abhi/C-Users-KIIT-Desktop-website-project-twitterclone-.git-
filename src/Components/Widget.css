@@ -1,0 +1,72 @@
+.widget-input{
+    display:flex;
+    flex-direction:row;
+    margin-top:10px;
+    border:2px solid rgb(74, 194, 235); 
+    width:200px;
+    margin-left:40px;
+    border-radius:8px;
+}
+#search-bar{
+    border:none;
+}
+
+.widget-container{
+    margin-top:10px;
+}
+.kpop{
+    display:flex;
+    flex-direction:row;
+   justify-content: safe;
+   margin-top:5px;
+}
+.bit-coin{
+    display:flex;
+    flex-direction:row;
+   justify-content: safe;
+   margin-top:5px;
+}
+.science{
+    display:flex;
+    flex-direction:row;
+   justify-content: safe;
+   margin-top:5px;
+}
+.business{
+    display:flex;
+    flex-direction:row;
+   justify-content: safe;
+   margin-top:5px;
+  
+}
+#k{
+    border-radius:2px solid rgb(74, 194, 235) ;
+    border-radius:6px;
+    background-color:white;
+    color:rgb(74, 194, 235);
+    width:100px;
+    height:20px;
+}#s{
+    border-radius:2px solid rgb(74, 194, 235) ;
+    border-radius:6px;
+    background-color:white;
+    color:rgb(74, 194, 235);
+    width:100px;
+    height:20px;
+}
+#b{
+    border-radius:2px solid rgb(74, 194, 235) ;
+    border-radius:6px;
+    background-color:white;
+    color:rgb(74, 194, 235);
+    width:100px;
+    height:20px;
+}
+#bus{
+    border-radius:2px solid rgb(74, 194, 235) ;
+    border-radius:6px;
+    background-color:white;
+    color:rgb(74, 194, 235);
+    width:100px;
+    height:20px;
+}

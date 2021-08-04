@@ -1,0 +1,88 @@
+
+
+.sidebar-main{
+    margin-top:20px;
+}
+.sidebar-tab{
+    margin-top:40px;
+    
+}
+.twitter-icon{
+color:rgb(74, 194, 235);
+
+}
+#home{
+    border:none;
+    color:rgb(74, 194, 235);
+ 
+}
+#explore{
+    border:none;
+    
+}
+#notification{
+    border:none;
+  
+}
+#email{
+    border:none;
+   
+}
+#person{
+    border:none;
+    
+}
+#more{
+    border:none;
+  
+}
+#add{
+    border:none;
+    background-color:rgb(74, 194, 235);
+    color:white;
+    border-radius:12px;
+    width:100px;
+    height:26px;
+    
+}
+
+.tweet-display{
+    margin-top: 90px;
+    margin-right:300px;
+    width:100px;
+   
+}
+.more-button{
+    margin-top:30px
+}
+
+
+.profile-button{
+    margin-top:30px
+}
+.mail-button{
+    margin-top:30px
+}
+.explore-button{
+    margin-top:30px
+}
+.more-button{
+    margin-top:30px
+}
+.more-button{
+    margin-top:30px
+}
+#twiticon{
+    font-size:30px;
+}
+.topic-description{
+    margin-top:10px;
+}
+.topics{
+    margin-top:5px;
+    border:0.1px solid silver;
+    background-color: whitesmoke;
+}
+
+
+
