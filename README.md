@@ -3,6 +3,8 @@
 This twitter clone was made using React js and Firebase to store datas. In this clone users can tweet, can share images or gifs and
 can check for trending topics on internet.
 
+![twitter-clonegif](https://user-images.githubusercontent.com/76091847/128140694-e5653a75-f08d-49d8-960c-3c3d31af8154.gif)
+[twitter-clonegif.txt](https://github.com/coder123-abhi/C-Users-KIIT-Desktop-website-project-twitterclone-.git-/files/6929426/twitter-clonegif.txt)
 
 ## Getting Started with Create React App
 
